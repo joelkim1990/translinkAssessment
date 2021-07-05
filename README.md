@@ -1,6 +1,6 @@
 # translinkAssessment
 
-Please use git to clone the repository. I tried to work on different (bit easier way) for everyone else to view but had some time issue. Couldn't resolve chromedriver placement for using both mvn or java command to run the test.
+Please branch out from "**master**," as this (current) branch is "**main**". I tried to work on different (bit easier way) for everyone else to view but had some time issue. Couldn't resolve chromedriver placement for using both mvn or java command to run the test.
 
 Steps to run the test:
 
